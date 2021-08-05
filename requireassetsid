@@ -1,1 +1,5 @@
-0000000
+def makeRequires
+def makenot
+def icanDef
+
+require(GAMEASSETIDHERE, true).LAUNCH()
